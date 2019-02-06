@@ -1,11 +1,8 @@
-# Your GitHub Learning Lab Repository for GitHub Pages
+# Cynthia's Blog
 
-Welcome to **your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. 
+Hi! My name is Cynthia **The test will be bold**
+I am a grade 9 experiencing my first year of highschool at A.Y Jackson Secondary school. I enjoy learning about math and science during school, and I endure myself in plenty of hobbies that always keep me busy.On my blog I discuss and write about my hobbies, my everyday life and interesting things that I feel are worth sharing!*This will be italics**
 
-Oh! I haven't introduced myself...
 
-I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
 
-![issue tab](https://lab.github.com/public/images/issue_tab.png)
-
-I'll meet you over there, can't wait to get started!
+![Desert Image](https://int.search.tb.ask.com/search/AJimage.jhtml?&enc=0&n=783ad79d&p2=%5EZ7%5Expu820%5ES24929%5Eca&pg=AJimage&pn=1&ptb=0FEBCA33-09A6-4B76-816E-5121359E627F&qs=&searchfor=my+blog&si=EAIaIQobChMIm9Wbkdee2AIVVoFpCh09RgDVEAEYAiAAEgKP7_D_BwE&ss=sub&st=sb&tpr=sbt&imgs=1p&filter=on&imgDetail=true)
